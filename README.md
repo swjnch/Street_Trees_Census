@@ -1,4 +1,4 @@
-# Street_Trees_Census
+### Street Trees Census
 
 Street trees especially in the urban areas contribute to environmental sustainability and biodiversity. Some of the benefits of street trees include reducing pollutants and carbon emissions, physical and mental health well-being, flood prevention, and an increase in property value. New York City(NYC) being one of the world's largest cities has been implementing various tree planting and protection programs with the help of volunteers and non-profit organizations.
 
